@@ -1,6 +1,6 @@
+<img src = "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif" style = "width: 1200px; height: 400px;">
 <h1 align="center">Hi 👋, I'm Data Maven</h1>
-<h3 align="center">A Data Enthusiast from India</h3>
-<img align="right" alt="Data Analyst" width="300" src="https://img.freepik.com/free-vector/data-report-concept-illustration_114360-1131.jpg"
+<img align="right" alt="Data Analyst" width="300" src="https://www.caxsol.com/assets/img/data-analysis.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datamaven14&label=Profile%20views&color=0e75b6&style=flat" alt="datamaven14" /> </p>
 
