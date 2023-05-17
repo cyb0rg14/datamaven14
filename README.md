@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Data Maven</h1>
 <h3 align="center">A Data Enthusiast from India</h3>
-<img align="right" alt="Data Analyst" width="400" src="https://dribbble.com/shots/14002832-Data-analyst-illustration?utm_source=Clipboard_Shot&utm_campaign=MarwanMouatassim&utm_content=Data%20analyst%20illustration&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=MarwanMouatassim&utm_content=Data%20analyst%20illustration&utm_medium=Social_Share"
+<img align="right" alt="Data Analyst" width="300" src="https://img.freepik.com/free-vector/data-report-concept-illustration_114360-1131.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datamaven14&label=Profile%20views&color=0e75b6&style=flat" alt="datamaven14" /> </p>
 
