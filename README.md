@@ -1,16 +1,16 @@
 <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif" style = "width: 1200px; height: 400px;">
 <h1 align="center">Hi 👋, I'm Data Maven</h1>
-<img align="right" alt="Data Analyst" width="300" src="https://www.caxsol.com/assets/img/data-analysis.gif"
+<img align="right" alt="Data Analyst" width="250" src="https://www.caxsol.com/assets/img/data-analysis.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datamaven14&label=Profile%20views&color=0e75b6&style=flat" alt="datamaven14" /> </p>
 
 <p align="left"> <a href="https://twitter.com/datamaven14" target="blank"><img src="https://img.shields.io/twitter/follow/datamaven14?logo=twitter&style=for-the-badge" alt="datamaven14" /></a> </p>
 
-- 🔭 I’m currently working on [Analyze it](github.com/datamvaven14/analyzeit-it.git)
+- 🔭 I’m currently working on [Analyze it](https://analyze-it.onrender.com)
 
 - 🌱 I’m currently exploring **different aspect of Data Analysis**
 
-- 👨‍💻 All of my projects are available at [datamavenprojects.carrd.co](datamavenprojects.carrd.co)
+- 👨‍💻 All of my projects are available at [datamavenprojects.carrd.co](https://datamavenprojects.carrd.co)
 
 - 📫 How to reach me **datamaven14@yahoo.com**
 
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datamaven14&show_icons=true&locale=en&layout=compact" alt="datamaven14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datamaven14&show_icons=true&locale=en" alt="datamaven14" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datamaven14&show_icons=true&locale=en" alt="datamaven14" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datamaven14&" alt="datamaven14" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=datamaven14&" alt="datamaven14" /></p>
