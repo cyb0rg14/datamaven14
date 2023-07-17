@@ -1,10 +1,10 @@
 <p align="center">
-  <img src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" style = "width:800px; height: 500px;"> 
+  <img src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" style = "width: 600px; height: 400px;"> 
 </p>
 <h1 align="center">Hi 👋, I'm Data Maven</h1>
 
 <!-- <img align="right" alt="Data Analyst" width="250" src="https://www.caxsol.com/assets/img/data-analysis.gif"  https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif  <img src="" alt="Image description">-->
-<img align = "right" alt="Data Analyst" width="300" src="https://github.com/datamaven14/datamaven14/blob/main/assets/images/banner.jpg">
+<img align = "right" alt="Data Analyst" width="250" src="https://github.com/datamaven14/datamaven14/blob/main/assets/images/banner.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datamaven14&label=Profile%20views&color=0e75b6&style=flat" alt="datamaven14" /> </p>
 
