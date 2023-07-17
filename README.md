@@ -1,19 +1,22 @@
-<img align = "center" src = "https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" style = "width: 1000px; height: 400px;"> 
+<p align="center">
+  <img src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" style = "width:800px; height: 500px;"> 
+</p>
 <h1 align="center">Hi 👋, I'm Data Maven</h1>
-<!-- <img align="right" alt="Data Analyst" width="250" src="https://www.caxsol.com/assets/img/data-analysis.gif" -->
-<img align = "right" alt="Data Analyst" width="300" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
+
+<!-- <img align="right" alt="Data Analyst" width="250" src="https://www.caxsol.com/assets/img/data-analysis.gif"  https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif  <img src="" alt="Image description">-->
+<img align = "right" alt="Data Analyst" width="300" src="https://github.com/datamaven14/datamaven14/blob/main/assets/images/banner.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datamaven14&label=Profile%20views&color=0e75b6&style=flat" alt="datamaven14" /> </p>
 
 <p align="left"> <a href="https://twitter.com/datamaven14" target="blank"><img src="https://img.shields.io/twitter/follow/datamaven14?logo=twitter&style=for-the-badge" alt="datamaven14" /></a> </p>
 
-- 🔭 I’m currently working on [Analyze it](https://analyze-it.onrender.com)
+- 🔭 I’m currently working on **[Analyze it](https://analyze-it.onrender.com)**
 
 - 🌱 I’m currently exploring **different aspect of Data Analysis**
 
-- 👨‍💻 All of my projects are available at [datamavenprojects.carrd.co](https://datamavenprojects.carrd.co)
+- 👨‍💻 All of my projects are available at **[datamavenprojects.carrd.co](https://datamavenprojects.carrd.co)**
 
-- 📫 Contact me at **datamaven14@yahoo.com**
+- 📫 Contact me at **[datamaven14@yahoo.com](mailto:datamaven14@yahoo.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
