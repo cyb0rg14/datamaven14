@@ -79,18 +79,17 @@ Hi, I'm Data Maven
 
 ## Follow me
 
-<a href="https://www.linkedin.com/in/yassine-rodani/" target="_blank">
+<a href="https://www.linkedin.com/in/datamaven14/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=0078D2"/>
 </a>
-<a href="https://twitter.com/yassine_rd_" target="_blank">
+<a href="https://twitter.com/datamaven14" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-twitter-%2312100E.svg?logo=twitter&logoColor=1DA1F2&style=for-the-badge"/>
 </a>
-<a href="https://www.youtube.com/channel/UCminaYgqTyGUMeDF8Ew26Bw" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Youtube-%2312100E.svg?style=for-the-badge&logo=Youtube&logoColor=EA4335"/>
-</a>
-<a href="https://www.kaggle.com/yassinerodani" target="_blank">
+<a href="https://www.kaggle.com/crownedhead06" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-kaggle-%2312100E.svg?logo=kaggle&logoColor=blue&style=for-the-badge&logoColor=20BEFF"/>
 </a>
-
+<a href="https://datamaven14.medium.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=Medium&logoColor=EA4335"/>
+</a>
 
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=datamaven14&" alt="datamaven14" /></p> -->
