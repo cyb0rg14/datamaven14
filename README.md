@@ -1,35 +1,96 @@
+<img src = "https://miro.medium.com/v2/resize:fit:1400/1*bhFifratH9DjKqMBTeQG5A.gif" style = "width: 1600px; height: 500px;">
+
+<h1 align="center">
+Hi, I'm Data Maven
+ <a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+ </a>
+</h1>
+
 <p align="center">
-  <img src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" style = "width: 600px; height: 400px;"> 
-</p>
-<h1 align="center">Hi 👋, I'm Data Maven</h1>
-
-<!-- <img align="right" alt="Data Analyst" width="250" src="https://www.caxsol.com/assets/img/data-analysis.gif"  https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif  <img src="" alt="Image description">-->
-<img align = "right" alt="Data Analyst" width="250" src="https://github.com/datamaven14/datamaven14/blob/main/assets/images/banner.jpg">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datamaven14&label=Profile%20views&color=0e75b6&style=flat" alt="datamaven14" /> </p>
-
-<p align="left"> <a href="https://twitter.com/datamaven14" target="blank"><img src="https://img.shields.io/twitter/follow/datamaven14?logo=twitter&style=for-the-badge" alt="datamaven14" /></a> </p>
-
-- 🔭 I’m currently working on **[Analyze it](https://analyze-it.onrender.com)**
-
-- 🌱 I’m currently exploring **different aspect of Data Analysis**
-
-- 👨‍💻 All of my projects are available at **[datamavenprojects.carrd.co](https://datamavenprojects.carrd.co)**
-
-- 📫 Contact me at **[datamaven14@yahoo.com](mailto:datamaven14@yahoo.com)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/datamaven14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datamaven14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anand-jha-b93960269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-jha-b93960269/" height="30" width="40" /></a>
- <a href="https://kaggle.com/CrownedHead06" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Data Maven" height="30" width="40" /></a>
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=AI+Engineer;Deep+Learning+Enthusiast;Clean+Code+Evangelist">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datamaven14&show_icons=true&locale=en&layout=compact" alt="datamaven14" /></p>
+![GitHub followers](https://img.shields.io/github/followers/datamaven14?style=social)    <img src="https://komarev.com/ghpvc/?username=datamaven14&label=Data Maven's%20Profile%20Views&color=4aa8de&style=flat" alt="datamaven14" />
+</div>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datamaven14&show_icons=true&locale=en" alt="datamaven14" /></p> -->
+<pre>
+💻 Deep Learning Enthusiast lost in the world of Data.
+🧬 Worked on topics such as Artifical Intelligence, Computer Vision and Natural Language Processing.
+🔭 I have a keen interest in data science and human-computer interactions.
+🌱 Learning about MLOps and advanced computer vision stuff.
+📬 Reach out to me: <a href="mailto:datamaven14@yahoo.com">datamaven14@yahoo.com</a>
+</pre>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=datamaven14&" alt="datamaven14" /></p>
+## Languages
+
+<p>
+    <a target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/>
+    </a>
+    <a target="_blank">
+        <img alt="SQL" src="https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </a>
+    <a target="_blank">
+        <img alt="Bash" src="https://img.shields.io/badge/Bash-%2312100E.svg?logo=gnu-bash&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a target="_blank">
+        <img alt="Cpp" src="https://img.shields.io/badge/C++-%2312100E.svg?&logo=cplusplus&style=for-the-badge&logoColor=00599C"/>
+    </a>
+        <a target="_blank">
+        <img alt="Rust" src="https://img.shields.io/badge/Rust-%2312100E.svg?&logo=rust&style=for-the-badge&logoColor=00599C"/>
+    </a>
+</p>
+
+## Technologies
+
+#### Data Science and ML
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2312100E.svg?&logo=TensorFlow&style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-%2312100E.svg?style=for-the-badge&logo=Keras&logoColor=red)
+![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=NumPy&logoColor=0c6678)
+![OpenCV](https://img.shields.io/badge/OpenCV-%2312100E.svg?style=for-the-badge&logo=OpenCV&logoColor=5c7ce8)
+![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2312100E.svg?style=for-the-badge)
+
+
+#### MLOps
+
+![AWS SageMaker](https://img.shields.io/badge/aws-%2312100E?style=for-the-badge&logo=amazonaws)
+![MLflow](https://img.shields.io/badge/MLflow-%2312100E?style=for-the-badge&logo=MLFlow)
+![DataVersionControl](https://img.shields.io/badge/DVC-%2312100E?style=for-the-badge&logo=DVC&logoColor=13ADC7)
+![Streamlit](https://img.shields.io/badge/-Streamlit-%2312100E.svg?&logo=Streamlit&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2312100E?style=for-the-badge&logo=FastAPI&logoColor=009688)
+![Docker](https://img.shields.io/badge/-Docker-%2312100E.svg?&logo=Docker&style=for-the-badge)
+
+#### Databases & Visualization
+
+![MySQL](https://img.shields.io/badge/MySQL-%2312100E?style=for-the-badge&logo=MySQL&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-%2312100E?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/mongodb-%2312100E?style=for-the-badge&logo=mongodb&logoColor=13ADC7)
+![PowerBI](https://img.shields.io/badge/PowerBI-%2312100E?style=for-the-badge&logo=PowerBI)
+
+---
+
+## Follow me
+
+<a href="https://www.linkedin.com/in/yassine-rodani/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=0078D2"/>
+</a>
+<a href="https://twitter.com/yassine_rd_" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-twitter-%2312100E.svg?logo=twitter&logoColor=1DA1F2&style=for-the-badge"/>
+</a>
+<a href="https://www.youtube.com/channel/UCminaYgqTyGUMeDF8Ew26Bw" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Youtube-%2312100E.svg?style=for-the-badge&logo=Youtube&logoColor=EA4335"/>
+</a>
+<a href="https://www.kaggle.com/yassinerodani" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-kaggle-%2312100E.svg?logo=kaggle&logoColor=blue&style=for-the-badge&logoColor=20BEFF"/>
+</a>
+
+
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=datamaven14&" alt="datamaven14" /></p> -->
