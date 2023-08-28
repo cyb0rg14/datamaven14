@@ -1,4 +1,4 @@
-<img src = "https://miro.medium.com/v2/resize:fit:1400/1*bhFifratH9DjKqMBTeQG5A.gif" style = "width: 1600px; height: 500px;">
+<!-- <img src = "https://miro.medium.com/v2/resize:fit:1400/1*bhFifratH9DjKqMBTeQG5A.gif" style = "width: 1600px; height: 500px;"> -->
 
 <h1 align="center">
 Hi, I'm Data Maven
@@ -18,13 +18,15 @@ Hi, I'm Data Maven
 ![GitHub followers](https://img.shields.io/github/followers/datamaven14?style=social)    <img src="https://komarev.com/ghpvc/?username=datamaven14&label=Data Maven's%20Profile%20Views&color=4aa8de&style=flat" alt="datamaven14" />
 </div>
 
-<pre>
-💻 Deep Learning Enthusiast lost in the world of Data.
-🧬 Worked on topics such as Artifical Intelligence, Computer Vision and Natural Language Processing.
-🔭 I have a keen interest in data science and human-computer interactions.
-🌱 Learning about MLOps and advanced computer vision stuff.
-📬 Reach out to me: <a href="mailto:datamaven14@yahoo.com">datamaven14@yahoo.com</a>
-</pre>
+- 🔭 I’m currently working on [UnMask](https://github.com/datamaven14/UnMask)
+
+- 🌱 I’m currently learning **different aspects of Artificial Intelligence 🤖**
+
+- 📝 I regularly write blogs on [Data Maven Blogs](https://datamaven14.medium.com)
+
+- 💬 Ask me anything about **Deep Learning, Computer Vision, NLP**
+
+- 📫 You can reach out to me at **datamaven14@yahoo.com**
 
 ## Languages
 
