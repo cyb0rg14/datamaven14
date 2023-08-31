@@ -14,8 +14,9 @@ Hi, I'm Data Maven
 </p>
 
 <div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/datamaven14?style=social)    <img src="https://komarev.com/ghpvc/?username=datamaven14&label=Data Maven's%20Profile%20Views&color=4aa8de&style=flat" alt="datamaven14" />
+ 
+ ![GitHub followers](https://img.shields.io/github/followers/datamaven14?style=social)
+ <img src="https://komarev.com/ghpvc/?username=datamaven14&label=%20Profile%20Views&color=4aa8de&style=flat" alt="datamaven14" />
 </div>
 
 - 🔭 I’m currently working on [UnMask](https://github.com/datamaven14/UnMask)
