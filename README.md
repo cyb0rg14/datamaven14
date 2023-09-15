@@ -27,7 +27,7 @@ Hi, I'm Data Maven
 
 - 💬 Ask me anything about **Deep Learning, Computer Vision, NLP**
 
-- 📫 You can reach out to me at **datamaven14@yahoo.com**
+- 📫 You can reach out to me at **datamaven@ik.me**
 
 ## Languages
 
